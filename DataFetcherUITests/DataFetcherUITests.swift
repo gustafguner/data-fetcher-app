@@ -1,10 +1,3 @@
-//
-//  DataFetcherUITests.swift
-//  DataFetcherUITests
-//
-//  Created by Gustaf Gunér on 2024-06-04.
-//
-
 import XCTest
 
 final class DataFetcherUITests: XCTestCase {
