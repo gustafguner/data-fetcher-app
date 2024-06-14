@@ -1,7 +1,7 @@
 ### Building the project
 To build the project, you need to set up a local Configuration file to hold the API key needed to fetch data.
 
-1. Retrieve an API key by following the instructions on https://developer.nytimes.com/get-started.
+1. Retrieve an API key by following the instructions on https://developer.nytimes.com/get-started. You need access to the "Top Stories API".
 2. Create a `Config.xcconfig` file at the root of the `DataFetcher` directory with the following content:
 ```
 API_KEY = <YOUR_API_KEY>
